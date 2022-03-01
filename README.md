@@ -1,5 +1,5 @@
 LinearRegression
-Implemented Linear Regression from scratch
+Implemented Linear Regression from scratch ( No Scikit-Learn Libraries)
 Includes the following solutions:
 1) Closed Form Solution
 2) Gradient Descent 
