@@ -6,4 +6,4 @@ Includes the following solutions:
 3) Gradient Descent with Regularization
 4) Stochastic Gradient Descent 
 5) Stochastic Gradient Descent with Regularization
-6)
+
